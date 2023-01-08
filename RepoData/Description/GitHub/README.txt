@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🌳️🌐️💻️ The OS mode for Bliss Browser lets you turn your computer into a netbook for as much time as you choose. A privacy-focused alternative to ChromeOS/ChromiumOS
