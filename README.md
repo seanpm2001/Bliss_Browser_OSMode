@@ -42,15 +42,24 @@ Special Linux builds of Bliss Browser OSMode are available for:
 |---|---|---|---|
 | [:octocat: Bliss Browser OSMode for Debian](https://github.com/seanpm2001/Bliss_Browser_OSMode_Debian-Shell/) | [:octocat: Bliss Browser OSMode for Fedora](https://github.com/seanpm2001/Bliss_Browser_OSMode_Fedora-Shell/) | [:octocat: Bliss Browser OSMode for Red Hat](https://github.com/seanpm2001/Bliss_Browser_OSMode_RedHat-Shell/) | [:octocat: Bliss Browser OSMode for Ubuntu](https://github.com/seanpm2001/Bliss_Browser_OSMode_Ubuntu-Shell/) |
 
-> **Note** Add to list: Kubuntu, Lubuntu, Xubuntu, Gentoo, Manjaro, Arch, Alpine, Puppy, Raspberry Pi OS, RaspbianOS, OpenSUSE, ElementaryOS, etc.
+| <img alt="Arch Linux logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/A/Arch-Linux/PNG/Arch-linux-logo.png" width="256" height="256" class="center"/> | <img alt="Gentoo logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/G/Gentoo-Linux/PNG/gentoo-3d-Logo.png" width="256" height="256" class="center"/> | <img alt="Linux From Scratch logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/L/Linux-From-Scratch/PNG/Linux-From-Scratch_LQ_Logo.png" width="256" height="256" class="center"/> | <img alt="Meadows proto-logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/M/Meadows/JPEG/Meadows_LowRes_PlaceholderLogo.jpeg" width="256" height="256" class="center"/> |
+|---|---|---|---|
+| [:octocat: Bliss Browser OSMode for Arch Linux](https://github.com/seanpm2001/Bliss_Browser_OSMode-Arch-Shell/) | [:octocat: Bliss Browser OSMode for Gentoo Linux](https://github.com/seanpm2001/Bliss_Browser_OSMode_Gentoo-Shell/) | [:octocat: Bliss Browser OSMode for Linux From Scratch (LFS)](https://github.com/seanpm2001/Bliss_Browser_OSMode-LFS-Shell/) | [:octocat: Bliss Browser OSMode for Meadows](https://github.com/seanpm2001/Bliss_Browser_OSMode-Meadows-Shell/) |
+
+| <img alt="RPi logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/R/Raspberry-Pi-OS/PNG/RPI_Logo_400px.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
+|---|---|---|---|
+| [:octocat: Bliss Browser OSMode for Raspberry Pi OS](https://github.com/seanpm2001/Bliss_Browser_OSMode_Raspberry-Pi-OS-Shell/) | Coming soon | Coming soon | Coming soon |
+
+
+> **Note** Add to list: Kubuntu, Lubuntu, Xubuntu, ~~Gentoo~~, Manjaro, ~~Arch,~~ Alpine, Puppy, ~~Raspberry Pi OS~~, RaspbianOS, OpenSUSE, ElementaryOS, etc.
 
 ### *Nix
 
 Special builds for other UNIX-like operating systems with Bliss Browser OSMode are available for:
 
-| <img alt="POSIX logo failed to load. Click/tap here to attempt to view it" src="/Graphics/-Nix/P/POSIX/JPEG/POSIX-3799444896.jpeg" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
+| <img alt="POSIX logo failed to load. Click/tap here to attempt to view it" src="/Graphics/-Nix/P/POSIX/JPEG/POSIX-3799444896.jpeg" width="256" height="256" class="center"/> | <img alt="DragonFly BSD logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BSD/DragonFly/PNG/105_dragonfly-bsd-icon.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
 |---|---|---|---|
-| [:octocat: POSIX variant of Bliss Browser OSMode](https://github.com/seanpm2001/Bliss_Browser_OSMode_POSIX-Shell/) | Coming soon | Coming soon | Coming soon |
+| [:octocat: POSIX variant of Bliss Browser OSMode](https://github.com/seanpm2001/Bliss_Browser_OSMode_POSIX-Shell/) | [DragonFly BSD](https://github.com/seanpm2001/Bliss_Browser_OSMode-DragonflyBSD-Shell/) | Coming soon | Coming soon |
 
 > **Note** Add to list: MacOS 10.10 and newer, FreeBSD, OpenBSD, NetBSD, etc.
 
@@ -58,14 +67,22 @@ Special builds for other UNIX-like operating systems with Bliss Browser OSMode a
 
 Special builds for other operating systems with Bliss Browser OSMode are available for:
 
+| <img alt="Windows NT logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Other/Windows-NT/PNG/Windows_NT_5.1_Logo_XP.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
+|---|---|---|---|
+| [Bliss Browser for Windows XP, Windows 10, Windows 11 (Windows NT)](https://github.com/seanpm2001/Bliss_Browser_OSMode-Windows-NT-Shell/) | Coming soon | Coming soon | Coming soon |
+
+> **Note** Add to list: ~~Windows XP, Windows 10, Windows 11 and newer~~ ReactOS, etc.
+
+***
+
+**File version:** `2 (2023, Thursday, February 2nd at 11:05 pm PST)`
+
+***
+
+<!-- TEMPLATE
+
 | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
 |---|---|---|---|
 | Coming soon | Coming soon | Coming soon | Coming soon |
 
-> **Note** Add to list: Windows XP, Windows 10, Windows 11 and newer, ReactOS, etc.
-
-***
-
-**File version:** `1 (2023, Tuesday, January 17th at 4:25 pm PST)`
-
-***
+!-->
