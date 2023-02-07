@@ -81,9 +81,9 @@ Special builds for other operating systems with Bliss Browser OSMode are availab
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Monday, February 6th at 4:27 pm PST)`
+**File version:** `4 (2023, Monday, February 6th at 4:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `167`
+**Line count (including blank lines and compiler line):** `186`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -152,6 +152,25 @@ Special builds for other operating systems with Bliss Browser OSMode are availab
 - - [x] Added an entry for version 3
 - [x] Added the footer 
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p><b>Version 4 (2023, Monday, February 6th at 4:30 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Minor fix: added a missing `</details>` tag to the `file history` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
+
+</details>
 
 </details>
 
