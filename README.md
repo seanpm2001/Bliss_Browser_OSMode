@@ -57,11 +57,11 @@ Special Linux builds of Bliss Browser OSMode are available for:
 
 Special builds for other UNIX-like operating systems with Bliss Browser OSMode are available for:
 
-| <img alt="POSIX logo failed to load. Click/tap here to attempt to view it" src="/Graphics/-Nix/P/POSIX/JPEG/POSIX-3799444896.jpeg" width="256" height="256" class="center"/> | <img alt="DragonFly BSD logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BSD/DragonFly/PNG/105_dragonfly-bsd-icon.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
+| <img alt="POSIX logo failed to load. Click/tap here to attempt to view it" src="/Graphics/-Nix/P/POSIX/JPEG/POSIX-3799444896.jpeg" width="256" height="256" class="center"/> | <img alt="DragonFly BSD logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BSD/DragonFly/PNG/105_dragonfly-bsd-icon.png" width="256" height="256" class="center"/> | <img alt="MacOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/-Nix/M/MacOS/PNG/MacOS_Logo1.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
 |---|---|---|---|
-| [:octocat: POSIX variant of Bliss Browser OSMode](https://github.com/seanpm2001/Bliss_Browser_OSMode_POSIX-Shell/) | [DragonFly BSD](https://github.com/seanpm2001/Bliss_Browser_OSMode-DragonflyBSD-Shell/) | Coming soon | Coming soon |
+| [:octocat: POSIX variant of Bliss Browser OSMode](https://github.com/seanpm2001/Bliss_Browser_OSMode_POSIX-Shell/) | [DragonFly BSD](https://github.com/seanpm2001/Bliss_Browser_OSMode-DragonflyBSD-Shell/) | [:octocat: Bliss Browser for MacOS (10.10 and up)](https://github.com/seanpm2001/Bliss_Browser_OSMode_MacOS_Shell/) | Coming soon |
 
-> **Note** Add to list: MacOS 10.10 and newer, FreeBSD, OpenBSD, NetBSD, etc.
+> **Note** Add to list: ~~MacOS 10.10 and newer~~, FreeBSD, OpenBSD, NetBSD, etc.
 
 ### Other
 
@@ -75,7 +75,85 @@ Special builds for other operating systems with Bliss Browser OSMode are availab
 
 ***
 
-**File version:** `2 (2023, Thursday, February 2nd at 11:05 pm PST)`
+### File info
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
+
+**File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+
+**File version:** `3 (2023, Monday, February 6th at 4:27 pm PST)`
+
+**Line count (including blank lines and compiler line):** `167`
+
+**Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+
+**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+***
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history for this file</b></p></summary>
+
+<details><summary><p><b>Version 1 (2023, Friday, January 27th at 4:25 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Started the file
+- [x] Added the title section
+- - [x] Added the browser logo
+- - [x] Added a centered description
+- [x] Added the `Intro` section
+- - [x] Added the `NetBook definition` subsection
+- - [x] Added the `Similar projects` subsection
+- - [x] Added the `Variants` section
+- - - [x] Added the `Linux` subsection
+- - - [x] Added the `*Nix` subsection
+- - - [x] Added the `Other` subsection
+- [x] Added the file version stamp
+- [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p><b>Version 2 (2023, Thursday, February 2nd at 11:05 pm PST)</b></p></summary>
+
+- [x] ...
+- - [x] Updated the `Variants` section
+- - - [x] Updated the `Linux` subsection
+- - - [x] Updated the `*Nix` subsection
+- - - [x] Updated the `Other` subsection
+- [x] Updated the file version stamp
+- [ ] No other changes in version 2
+
+</details>
+
+<details><summary><p><b>Version 3 (2023, Monday, February 6th at 4:27 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Variants` section
+- - [x] Updated the `*Nix` subsection, adding in MacOS
+- [x] Removed the file version stamp in place of a file info section
+- [x] Added the `file info` section
+- - [x] Added the version number
+- - [x] Added the version date
+- - [x] Added the line count
+- [x] Added the `file history` section
+- - [x] Added an entry for version 1
+- - [x] Added an entry for version 2
+- - [x] Added an entry for version 3
+- [x] Added the footer 
+- [ ] No other changes in version 3
+
+</details>
 
 ***
 
