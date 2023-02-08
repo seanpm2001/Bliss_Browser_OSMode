@@ -64,9 +64,9 @@ Special Linux builds of Bliss Browser OSMode are available for:
 |---|---|---|---|
 | [:octocat: Bliss Browser OSMode for Arch Linux](https://github.com/seanpm2001/Bliss_Browser_OSMode-Arch-Shell/) | [:octocat: Bliss Browser OSMode for Gentoo Linux](https://github.com/seanpm2001/Bliss_Browser_OSMode_Gentoo-Shell/) | [:octocat: Bliss Browser OSMode for Linux From Scratch (LFS)](https://github.com/seanpm2001/Bliss_Browser_OSMode-LFS-Shell/) | [:octocat: Bliss Browser OSMode for Meadows](https://github.com/seanpm2001/Bliss_Browser_OSMode-Meadows-Shell/) |
 
-| <img alt="RPi logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/R/Raspberry-Pi-OS/PNG/RPI_Logo_400px.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
+| <img alt="RPi logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/R/Raspberry-Pi-OS/PNG/RPI_Logo_400px.png" width="256" height="256" class="center"/> | <img alt="NixOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/N/NixOS/PNG/NixOS_Logo1.png" width="256" height="256" class="center"/> | <img alt="WacOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/W/WacOS/PNG/MacOSIcon.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
 |---|---|---|---|
-| [:octocat: Bliss Browser OSMode for Raspberry Pi OS](https://github.com/seanpm2001/Bliss_Browser_OSMode_Raspberry-Pi-OS-Shell/) | Coming soon | Coming soon | Coming soon |
+| [:octocat: Bliss Browser OSMode for Raspberry Pi OS](https://github.com/seanpm2001/Bliss_Browser_OSMode_Raspberry-Pi-OS-Shell/) | [:octocat: Bliss Browser for NixOS](https://github.com/seanpm2001/Bliss_Browser_OSMode_NixOS_Shell/) | [:octocat: Bliss Browser for WacOS](https://github.com/seanpm2001/Bliss_Browser_OSMode_WacOS_Shell/) | Coming soon |
 
 
 > **Note** Add to list: Kubuntu, Lubuntu, Xubuntu, ~~Gentoo~~, Manjaro, ~~Arch,~~ Alpine, Puppy, ~~Raspberry Pi OS~~, RaspbianOS, OpenSUSE, ElementaryOS, etc.
@@ -103,9 +103,9 @@ Special builds for other operating systems with Bliss Browser OSMode are availab
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2023, Tuesday, February 7th at 6:06 pm PST)`
+**File version:** `6 (2023, Wednesday, February 8th at 3:36 pm PST)`
 
-**Line count (including blank lines and compiler line):** `230`
+**Line count (including blank lines and compiler line):** `248`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -213,6 +213,24 @@ Special builds for other operating systems with Bliss Browser OSMode are availab
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
+
+</details>
+
+<details><summary><p><b>Version 6 (2023, Wednesday, February 8th at 3:36 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- ...
+- - [x] Updated the `Linux` subsection, adding in NixOS and WacOS
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 6
+- [ ] No other changes in version 6
 
 </details>
 
