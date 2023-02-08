@@ -28,6 +28,24 @@ I may be outspoken here, but I believe that Netbook is still the relevant term f
 
 ***
 
+## Challenges
+
+### Mobile variants
+
+On 2023, Tuesday, February 7th, I began to deal with a new problem in the design of the browser: I have designed it for desktops, and I never considered making a mobile variant. I am trying to figure out how the browser will have to be changed to get it to run on mobile operating systems. It is also an interesting idea to have a netPDA/netPhone, opposed to a NetBook.
+
+### iOS/iPadOS engine problem
+
+Due to Apple Incs rule on using third party engines in iOS/iPadOS, the iOS/iPadOS versions of the browser will be severely limited, as the project will be forced to use WebKit for these variants, opposed to other engines. Maybe a rooted variant can support other engines?
+
+***
+
+## OS ports
+
+OSMode repositories aren't just for turning the browser into a net operating system, they also contain fine-tuned tools and libraries required to port the browser to different operating systems. The tuned tools will work alongside the Bliss Browser core. The core will interpret the changes for each operating system and its port.
+
+***
+
 ## Variants
 
 > **Note** Links marked with the :octocat: Emoji are indicators that the links are to GitHub-based repositories.
@@ -57,9 +75,13 @@ Special Linux builds of Bliss Browser OSMode are available for:
 
 Special builds for other UNIX-like operating systems with Bliss Browser OSMode are available for:
 
-| <img alt="POSIX logo failed to load. Click/tap here to attempt to view it" src="/Graphics/-Nix/P/POSIX/JPEG/POSIX-3799444896.jpeg" width="256" height="256" class="center"/> | <img alt="DragonFly BSD logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BSD/DragonFly/PNG/105_dragonfly-bsd-icon.png" width="256" height="256" class="center"/> | <img alt="MacOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/-Nix/M/MacOS/PNG/MacOS_Logo1.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
+| <img alt="POSIX logo failed to load. Click/tap here to attempt to view it" src="/Graphics/-Nix/P/POSIX/JPEG/POSIX-3799444896.jpeg" width="256" height="256" class="center"/> | <img alt="DragonFly BSD logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BSD/DragonFly/PNG/105_dragonfly-bsd-icon.png" width="256" height="256" class="center"/> | <img alt="MacOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/-Nix/M/MacOS/PNG/MacOS_Logo1.png" width="256" height="256" class="center"/> | <img alt="iOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/-Nix/I/iOS/PNG/iOS_Logo2.png" width="256" height="256" class="center"/> |
 |---|---|---|---|
-| [:octocat: POSIX variant of Bliss Browser OSMode](https://github.com/seanpm2001/Bliss_Browser_OSMode_POSIX-Shell/) | [DragonFly BSD](https://github.com/seanpm2001/Bliss_Browser_OSMode-DragonflyBSD-Shell/) | [:octocat: Bliss Browser for MacOS (10.10 and up)](https://github.com/seanpm2001/Bliss_Browser_OSMode_MacOS_Shell/) | Coming soon |
+| [:octocat: POSIX variant of Bliss Browser OSMode](https://github.com/seanpm2001/Bliss_Browser_OSMode_POSIX-Shell/) | [DragonFly BSD](https://github.com/seanpm2001/Bliss_Browser_OSMode-DragonflyBSD-Shell/) | [:octocat: Bliss Browser for MacOS (10.10 and up)](https://github.com/seanpm2001/Bliss_Browser_OSMode_MacOS_Shell/) | [:octocat: Bliss Browser for iOS](https://github.com/seanpm2001/Bliss_Browser_OSMode_iOS_Shell/) |
+
+| <img alt="iPadOS low quality logo failed to load. Click/tap here to attempt to view it" src="/Graphics/-Nix/I/iPadOS/PNG/iPadOS_Logo_LQ.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
+|---|---|---|---|
+| [:octocat: Bliss Browser for iPadOS](https://github.com/seanpm2001/Bliss_Browser_OSMode_iPadOS_Shell/) | Coming soon | Coming soon | Coming soon |
 
 > **Note** Add to list: ~~MacOS 10.10 and newer~~, FreeBSD, OpenBSD, NetBSD, etc.
 
@@ -81,9 +103,9 @@ Special builds for other operating systems with Bliss Browser OSMode are availab
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2023, Monday, February 6th at 4:30 pm PST)`
+**File version:** `5 (2023, Tuesday, February 7th at 6:06 pm PST)`
 
-**Line count (including blank lines and compiler line):** `186`
+**Line count (including blank lines and compiler line):** `230`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -169,6 +191,28 @@ Special builds for other operating systems with Bliss Browser OSMode are availab
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p><b>Version 5 (2023, Tuesday, February 7th at 6:06 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- ...
+- - [x] Updated the `*Nix` subsection, adding in iOS and iPadOS
+- [x] Added the `Challenges` section
+- - [x] Added the `Mobile variants` subsection
+- - [x] Added the `iOS/iPadOS engine problem` subsection
+- [x] Added the `OSPorts` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
 
 </details>
 
