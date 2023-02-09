@@ -46,6 +46,16 @@ OSMode repositories aren't just for turning the browser into a net operating sys
 
 ***
 
+## Questions and answers
+
+**Q:** Will Bliss Browser ever support ChromeOS/ChromiumOS?
+
+**A:** No, there is no point. If a user wants a netbook operating system other than ChromeOS, they can switch over. It isn't feasible to port the browser to this platform for many reasons.
+
+**List is incomplete**
+
+***
+
 ## Variants
 
 > **Note** Links marked with the :octocat: Emoji are indicators that the links are to GitHub-based repositories.
@@ -64,10 +74,13 @@ Special Linux builds of Bliss Browser OSMode are available for:
 |---|---|---|---|
 | [:octocat: Bliss Browser OSMode for Arch Linux](https://github.com/seanpm2001/Bliss_Browser_OSMode-Arch-Shell/) | [:octocat: Bliss Browser OSMode for Gentoo Linux](https://github.com/seanpm2001/Bliss_Browser_OSMode_Gentoo-Shell/) | [:octocat: Bliss Browser OSMode for Linux From Scratch (LFS)](https://github.com/seanpm2001/Bliss_Browser_OSMode-LFS-Shell/) | [:octocat: Bliss Browser OSMode for Meadows](https://github.com/seanpm2001/Bliss_Browser_OSMode-Meadows-Shell/) |
 
-| <img alt="RPi logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/R/Raspberry-Pi-OS/PNG/RPI_Logo_400px.png" width="256" height="256" class="center"/> | <img alt="NixOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/N/NixOS/PNG/NixOS_Logo1.png" width="256" height="256" class="center"/> | <img alt="WacOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/W/WacOS/PNG/MacOSIcon.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
+| <img alt="RPi logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/R/Raspberry-Pi-OS/PNG/RPI_Logo_400px.png" width="256" height="256" class="center"/> | <img alt="NixOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/N/NixOS/PNG/NixOS_Logo1.png" width="256" height="256" class="center"/> | <img alt="WacOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/W/WacOS/PNG/MacOSIcon.png" width="256" height="256" class="center"/> | <img alt="Android logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/A/Android/SVG/Android_logo_2019_(stacked).svg" width="256" height="256" class="center"/> |
 |---|---|---|---|
-| [:octocat: Bliss Browser OSMode for Raspberry Pi OS](https://github.com/seanpm2001/Bliss_Browser_OSMode_Raspberry-Pi-OS-Shell/) | [:octocat: Bliss Browser for NixOS](https://github.com/seanpm2001/Bliss_Browser_OSMode_NixOS_Shell/) | [:octocat: Bliss Browser for WacOS](https://github.com/seanpm2001/Bliss_Browser_OSMode_WacOS_Shell/) | Coming soon |
+| [:octocat: Bliss Browser OSMode for Raspberry Pi OS](https://github.com/seanpm2001/Bliss_Browser_OSMode_Raspberry-Pi-OS-Shell/) | [:octocat: Bliss Browser for NixOS](https://github.com/seanpm2001/Bliss_Browser_OSMode_NixOS_Shell/) | [:octocat: Bliss Browser for WacOS](https://github.com/seanpm2001/Bliss_Browser_OSMode_WacOS_Shell/) | [:octocat: Bliss Browser for Android](https://github.com/seanpm2001/Bliss_Browser_OSMode_Android_Shell/) |
 
+| <img alt="FireOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/F/FireOS/PNG/Amazon-Fire-Logo.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
+|---|---|---|---|
+| [:octocat: Bliss Browser for FireOS](https://github.com/seanpm2001/Bliss_Browser_OSMode_FireOS_Shell/) | Coming soon | Coming soon | Coming soon |
 
 > **Note** Add to list: Kubuntu, Lubuntu, Xubuntu, ~~Gentoo~~, Manjaro, ~~Arch,~~ Alpine, Puppy, ~~Raspberry Pi OS~~, RaspbianOS, OpenSUSE, ElementaryOS, etc.
 
@@ -89,9 +102,9 @@ Special builds for other UNIX-like operating systems with Bliss Browser OSMode a
 
 Special builds for other operating systems with Bliss Browser OSMode are available for:
 
-| <img alt="Windows NT logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Other/Windows-NT/PNG/Windows_NT_5.1_Logo_XP.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
+| <img alt="Windows NT logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Other/Windows-NT/PNG/Windows_NT_5.1_Logo_XP.png" width="256" height="256" class="center"/> | <img alt="Windows 10 logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Other/Windows-10/PNG/Windows-10-logo_Square.png" width="256" height="256" class="center"/> | <img alt="Windows 11 logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Other/Windows-11/JPEG/Windows-11-Logo_Square.jpeg" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
 |---|---|---|---|
-| [Bliss Browser for Windows XP, Windows 10, Windows 11 (Windows NT)](https://github.com/seanpm2001/Bliss_Browser_OSMode-Windows-NT-Shell/) | Coming soon | Coming soon | Coming soon |
+| [:octocat: Bliss Browser for Windows NT (Windows Vista and newer)](https://github.com/seanpm2001/Bliss_Browser_OSMode-Windows-NT-Shell/) | [:octocat: Bliss Browser for Windows 10](https://github.com/seanpm2001/Bliss_Browser_OSMode_Windows-10_Shell/) | [:octocat: Bliss Browser for Windows 11](https://github.com/seanpm2001/Bliss_Browser_OSMode_Windows-11_Shell/) | Coming soon |
 
 > **Note** Add to list: ~~Windows XP, Windows 10, Windows 11 and newer~~ ReactOS, etc.
 
@@ -103,9 +116,9 @@ Special builds for other operating systems with Bliss Browser OSMode are availab
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2023, Wednesday, February 8th at 3:36 pm PST)`
+**File version:** `7 (2023, Thursday, February 9th at 1:50 pm PST)`
 
-**Line count (including blank lines and compiler line):** `248`
+**Line count (including blank lines and compiler line):** `281`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -231,6 +244,26 @@ Special builds for other operating systems with Bliss Browser OSMode are availab
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 6
 - [ ] No other changes in version 6
+
+</details>
+
+<details><summary><p><b>Version 7 (2023, Thursday, February 9th at 1:50 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Added the `Questions and answers` section
+- ...
+- - [x] Updated the `Linux` subsection, adding in Android and FireOS
+- - [x] Updated the `OtherOS` subsection, adding in Windows 10 and Windows 11
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 7
+- [ ] No other changes in version 7
 
 </details>
 
