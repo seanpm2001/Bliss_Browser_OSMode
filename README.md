@@ -48,65 +48,174 @@ OSMode repositories aren't just for turning the browser into a net operating sys
 
 ## Questions and answers
 
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+1. Question 1
+
 **Q:** Will Bliss Browser ever support ChromeOS/ChromiumOS?
 
 **A:** No, there is no point. If a user wants a netbook operating system other than ChromeOS, they can switch over. It isn't feasible to port the browser to this platform for many reasons.
 
+2. Question 2
+
+**Q:** What is Meadows Linux and WacOS, and why have I never heard of them before?
+
+**A:** [:octocat: Meadows](https://github.com/seanpm2001/qMeadows/) and [:octocat: WacOS](https://github.com/seanpm2001/WacOS/) are operating systems by [:octocat: @seanpm2001](https://github.com/seanpm2001/) that are currently under development. As of 2023, Friday, February 10th, neither of them are functional, but support for them is planned. They are currently obscure, and don't have their own Wikipedia pages, as they aren't notable enough yet. WacOS is an Apple replacement, Meadows is a Quantum Computer operating system that is my dream operating system, being developed since 2013. The Meadows operating system is part of the same software family that the Bliss Browser is part of.
+
+3. Question 3
+
+**Q:** Why is Windows XP still supported?
+
+**A:** Windows XP is supported out of tradition. The Meadows project that this project is part of took heavy inspiration from my past experience with Windows XP. The Windows XP edition is heavily modified, and is only recommended for use in a virtual machine, or an old computer you are willing to format if something goes wrong.
+
+4. Question 4
+
+**Q:** Why C? Why Python? Why other languages?
+
+**A:** One of the goals in Bliss Browser development is for maximum portability with minimum dependencies. Since most systems support C, C is one of the languages the browser is written in. When a system comes with Python pre-installed, and has good Python support, Python is used as a backup language, as the project is supposed to be written in Python as a majority language. For other languages, it depends on what is pre-installed. Windows Vista and onward are written in C# due to that language being supported (also software diversity) the Android port is written in Java, due to the prevalance of Java in Android development, and and so on.
+
 **List is incomplete**
+
+5. Question 5 (obsolete, as of 2023, Friday, February 10th)
+
+**Q:** The images appear stretched. Are you aware of this?
+
+**A:** Yes. I was aware. When preparing and writing this Q&A, I decided to fix it. There were no excuses left for not doing so.
+
+6. Question 6
+
+**Q:** Why are you using old logos?
+
+**A:** Some older logos look better to me than the newer ones, and are more recognizable. I also strongly favor skeuomorphism or gradient over flat design
+
+7. Question 7
+
+**Q:** Why do none of these projects work?
+
+**A:** As of 2023, Friday, February 10th, all Bliss Browser projects are in the Pre-Alpha stage, and are currently being planned. Development hasn't fully began yet, it hasn't even reached the Alpha stage yet.
+
+8. Question 8
+
+**Q:** Some images have white boxes around them. Are you aware of this?
+
+**A:** Yes I am. I am hoping to replace all non-transparent images with tranparent versions, but it is a slow process, as I have a small community, and I am dedicating this as an up-for-grabs community goal. You can open a pull request if you have the necessary files to fix one or more images. Please make sure to give the files an appropriate name, and follow the file structure rules if you are to do this.
+
+</details>
 
 ***
 
 ## Variants
 
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
 > **Note** Links marked with the :octocat: Emoji are indicators that the links are to GitHub-based repositories.
 
-> **Note** For developers: Keep each table row limited to 4 entries.
+<!-- > **Note** For developers: Keep each table row limited to 4 entries. !-->
 
 ### Linux
 
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
 Special Linux builds of Bliss Browser OSMode are available for:
 
-| <img alt="Debian logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/D/Debian/SVG/Debian_Logo.svg" width="256" height="256" class="center"/> | <img alt="Fedora logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/F/Fedora/SVG/Fedora_logo.svg" width="256" height="256" class="center"/> | <img alt="RedHat logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/R/RedHat/SVG/Red_Fedora.svg" width="256" height="256" class="center"/> | <img alt="Ubuntu logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/U/Ubuntu/PNG/Ubuntu-Legacy-logo.png" width="256" height="256" class="center"/> |
-|---|---|---|---|
-| [:octocat: Bliss Browser OSMode for Debian](https://github.com/seanpm2001/Bliss_Browser_OSMode_Debian-Shell/) | [:octocat: Bliss Browser OSMode for Fedora](https://github.com/seanpm2001/Bliss_Browser_OSMode_Fedora-Shell/) | [:octocat: Bliss Browser OSMode for Red Hat](https://github.com/seanpm2001/Bliss_Browser_OSMode_RedHat-Shell/) | [:octocat: Bliss Browser OSMode for Ubuntu](https://github.com/seanpm2001/Bliss_Browser_OSMode_Ubuntu-Shell/) |
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-| <img alt="Arch Linux logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/A/Arch-Linux/PNG/Arch-linux-logo.png" width="256" height="256" class="center"/> | <img alt="Gentoo logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/G/Gentoo-Linux/PNG/gentoo-3d-Logo.png" width="256" height="256" class="center"/> | <img alt="Linux From Scratch logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/L/Linux-From-Scratch/PNG/Linux-From-Scratch_LQ_Logo.png" width="256" height="256" class="center"/> | <img alt="Meadows proto-logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/M/Meadows/JPEG/Meadows_LowRes_PlaceholderLogo.jpeg" width="256" height="256" class="center"/> |
-|---|---|---|---|
-| [:octocat: Bliss Browser OSMode for Arch Linux](https://github.com/seanpm2001/Bliss_Browser_OSMode-Arch-Shell/) | [:octocat: Bliss Browser OSMode for Gentoo Linux](https://github.com/seanpm2001/Bliss_Browser_OSMode_Gentoo-Shell/) | [:octocat: Bliss Browser OSMode for Linux From Scratch (LFS)](https://github.com/seanpm2001/Bliss_Browser_OSMode-LFS-Shell/) | [:octocat: Bliss Browser OSMode for Meadows](https://github.com/seanpm2001/Bliss_Browser_OSMode-Meadows-Shell/) |
+<table>
+  <!-- Row 1 !-->
+  <!-- Linux !-->
+  <tr>
+     <td align="center"><p>Linux (row 1)</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Debian-Shell/"><img src="/Graphics/Linux/D/Debian/SVG/Debian_Logo.svg" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Debian</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Fedora-Shell/"><img src="/Graphics/Linux/F/Fedora/SVG/Fedora_logo.svg" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Fedora</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_RedHat-Shell/"><img src="/Graphics/Linux/R/RedHat/SVG/Red_Fedora.svg"/" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Red Hat</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Ubuntu-Shell/"><img src="/Graphics/Linux/U/Ubuntu/PNG/Ubuntu-Legacy-logo.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Ubuntu</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode-Arch-Shell/"><img src="/Graphics/Linux/A/Arch-Linux/PNG/Arch-linux-logo.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Arch Linux</b></sub></a></td>
+  </tr>
+  <tr>
+     <td align="center"><p>Linux (row 2)</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Gentoo-Shell/"><img src="/Graphics/Linux/G/Gentoo-Linux/PNG/gentoo-3d-Logo.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Gentoo</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode-LFS-Shell/"><img src="/Graphics/Linux/L/Linux-From-Scratch/PNG/Linux-From-Scratch_LQ_Logo.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Linux From Scratch (LFS)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode-Meadows-Shell/"><img src="/Graphics/Linux/M/Meadows/JPEG/Meadows_LowRes_PlaceholderLogo.jpeg" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Meadows</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Raspberry-Pi-OS-Shell/"><img src="/Graphics/Linux/R/Raspberry-Pi-OS/PNG/RPI_Logo_400px.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Raspberry Pi OS</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_NixOS_Shell/"><img src="/Graphics/Linux/N/NixOS/PNG/NixOS_Logo1.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for NixOS</b></sub></a></td>
+  </tr>
+  <tr>
+     <td align="center"><p>Linux (row 3)</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_WacOS_Shell/"><img src="/Graphics/Linux/W/WacOS/PNG/MacOSIcon.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for WacOS</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Android_Shell/"><img src="/Graphics/Linux/A/Android/SVG/Android_logo_2019_(stacked).svg" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Android</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_FireOS_Shell/"><img src="/Graphics/Linux/F/FireOS/PNG/Amazon-Fire-Logo.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for FireOS</b></sub></a></td>
+    <td align="center"><a href="https://example.com"><img src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://example.com"><img src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
+</table>
 
-| <img alt="RPi logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/R/Raspberry-Pi-OS/PNG/RPI_Logo_400px.png" width="256" height="256" class="center"/> | <img alt="NixOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/N/NixOS/PNG/NixOS_Logo1.png" width="256" height="256" class="center"/> | <img alt="WacOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/W/WacOS/PNG/MacOSIcon.png" width="256" height="256" class="center"/> | <img alt="Android logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/A/Android/SVG/Android_logo_2019_(stacked).svg" width="256" height="256" class="center"/> |
-|---|---|---|---|
-| [:octocat: Bliss Browser OSMode for Raspberry Pi OS](https://github.com/seanpm2001/Bliss_Browser_OSMode_Raspberry-Pi-OS-Shell/) | [:octocat: Bliss Browser for NixOS](https://github.com/seanpm2001/Bliss_Browser_OSMode_NixOS_Shell/) | [:octocat: Bliss Browser for WacOS](https://github.com/seanpm2001/Bliss_Browser_OSMode_WacOS_Shell/) | [:octocat: Bliss Browser for Android](https://github.com/seanpm2001/Bliss_Browser_OSMode_Android_Shell/) |
-
-| <img alt="FireOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux/F/FireOS/PNG/Amazon-Fire-Logo.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
-|---|---|---|---|
-| [:octocat: Bliss Browser for FireOS](https://github.com/seanpm2001/Bliss_Browser_OSMode_FireOS_Shell/) | Coming soon | Coming soon | Coming soon |
+</details>
 
 > **Note** Add to list: Kubuntu, Lubuntu, Xubuntu, ~~Gentoo~~, Manjaro, ~~Arch,~~ Alpine, Puppy, ~~Raspberry Pi OS~~, RaspbianOS, OpenSUSE, ElementaryOS, etc.
 
+</details>
+
 ### *Nix
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 Special builds for other UNIX-like operating systems with Bliss Browser OSMode are available for:
 
-| <img alt="POSIX logo failed to load. Click/tap here to attempt to view it" src="/Graphics/-Nix/P/POSIX/JPEG/POSIX-3799444896.jpeg" width="256" height="256" class="center"/> | <img alt="DragonFly BSD logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BSD/DragonFly/PNG/105_dragonfly-bsd-icon.png" width="256" height="256" class="center"/> | <img alt="MacOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/-Nix/M/MacOS/PNG/MacOS_Logo1.png" width="256" height="256" class="center"/> | <img alt="iOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/-Nix/I/iOS/PNG/iOS_Logo2.png" width="256" height="256" class="center"/> |
-|---|---|---|---|
-| [:octocat: POSIX variant of Bliss Browser OSMode](https://github.com/seanpm2001/Bliss_Browser_OSMode_POSIX-Shell/) | [DragonFly BSD](https://github.com/seanpm2001/Bliss_Browser_OSMode-DragonflyBSD-Shell/) | [:octocat: Bliss Browser for MacOS (10.10 and up)](https://github.com/seanpm2001/Bliss_Browser_OSMode_MacOS_Shell/) | [:octocat: Bliss Browser for iOS](https://github.com/seanpm2001/Bliss_Browser_OSMode_iOS_Shell/) |
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-| <img alt="iPadOS low quality logo failed to load. Click/tap here to attempt to view it" src="/Graphics/-Nix/I/iPadOS/PNG/iPadOS_Logo_LQ.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
-|---|---|---|---|
-| [:octocat: Bliss Browser for iPadOS](https://github.com/seanpm2001/Bliss_Browser_OSMode_iPadOS_Shell/) | Coming soon | Coming soon | Coming soon |
+<table>
+  <!-- Row 1 !-->
+  <!-- *Nix !-->
+  <tr>
+     <td align="center"><p>*Nix (row 1)</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_POSIX-Shell/"><img src="/Graphics/-Nix/P/POSIX/JPEG/POSIX-3799444896.jpeg" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for POSIX-compliant systems</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode-DragonflyBSD-Shell/"><img src="/Graphics/BSD/DragonFly/PNG/105_dragonfly-bsd-icon.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for DragonFly BSD</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_MacOS_Shell/"><img src="/Graphics/-Nix/M/MacOS/PNG/MacOS_Logo1.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for MacOS (10.10 and up)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_iOS_Shell/"><img src="/Graphics/-Nix/I/iOS/PNG/iOS_Logo2.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for iOS</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_iPadOS_Shell/"><img src="/Graphics/-Nix/I/iPadOS/PNG/iPadOS_Logo_LQ.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for iPadOS</b></sub></a></td>
+  </tr>
+</table>
+
+</details>
 
 > **Note** Add to list: ~~MacOS 10.10 and newer~~, FreeBSD, OpenBSD, NetBSD, etc.
 
+</details>
+
 ### Other
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 Special builds for other operating systems with Bliss Browser OSMode are available for:
 
-| <img alt="Windows NT logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Other/Windows-NT/PNG/Windows_NT_5.1_Logo_XP.png" width="256" height="256" class="center"/> | <img alt="Windows 10 logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Other/Windows-10/PNG/Windows-10-logo_Square.png" width="256" height="256" class="center"/> | <img alt="Windows 11 logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Other/Windows-11/JPEG/Windows-11-Logo_Square.jpeg" width="256" height="256" class="center"/> | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256" class="center"/> |
-|---|---|---|---|
-| [:octocat: Bliss Browser for Windows NT (Windows Vista and newer)](https://github.com/seanpm2001/Bliss_Browser_OSMode-Windows-NT-Shell/) | [:octocat: Bliss Browser for Windows 10](https://github.com/seanpm2001/Bliss_Browser_OSMode_Windows-10_Shell/) | [:octocat: Bliss Browser for Windows 11](https://github.com/seanpm2001/Bliss_Browser_OSMode_Windows-11_Shell/) | Coming soon |
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-> **Note** Add to list: ~~Windows XP, Windows 10, Windows 11 and newer~~ ReactOS, etc.
+<table>
+  <!-- Row 1 !-->
+  <!-- OtherOS !-->
+  <tr>
+     <td align="center"><p>OtherOS (row 1)</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Windows-XP_Shell/"><img src="/Graphics/Other/Windows-XP/PNG/Windows-XP_WordmarkLogo.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Windows XP</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode-Windows-NT-Shell/"><img src="/Graphics/Other/Windows-NT/PNG/Windows_NT_5.1_Logo_XP.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Windows NT (5.1 and up)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Windows-10_Shell/"><img src="/Graphics/Other/Windows-10/PNG/Windows-10-logo_Square.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Windows 10</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Windows-11_Shell/"><img src="/Graphics/Other/Windows-11/JPEG/Windows-11-Logo_Square.jpeg" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Windows 11</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_ReactOS_Shell/"><img src="/Graphics/Other/ReactOS/JPEG/ReactOS_Logo_800px_Opaque.jpeg" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for ReactOS</b></sub></a></td>
+  </tr>
+</table>
+
+</details>
+
+> **Note** Add to list: ~~Windows XP, Windows 10, Windows 11 and newer~~ , ~~ReactOS~~, etc.
+
+</details>
+
+</details>
+
+</details>
+
+</details>
+
+</details>
 
 ***
 
@@ -116,9 +225,9 @@ Special builds for other operating systems with Bliss Browser OSMode are availab
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2023, Thursday, February 9th at 1:50 pm PST)`
+**File version:** `8 (2023, Friday, February 10th at 6:14 pm PST)`
 
-**Line count (including blank lines and compiler line):** `281`
+**Line count (including blank lines and compiler line):** `411`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -264,6 +373,27 @@ Special builds for other operating systems with Bliss Browser OSMode are availab
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 7
 - [ ] No other changes in version 7
+
+</details>
+
+<details><summary><p><b>Version 8 (2023, Friday, February 10th at 6:14 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Questions and answers` section, adding 7 questions, and converting the list into a dropdown section
+- ...
+- - [x] Updated the `Linux` subsection, reformatting the table, and switching from 4 to 5 columns per row, converted to dropdown
+- - [x] Updated the `*Nix` subsection, reformatting the table, and switching from 4 to 5 columns per row converted to dropdown
+- - [x] Updated the `OtherOS` subsection, reformatting the table, switching from 4 to 5 columns per row, and adding support for Windows XP and ReactOS converted to dropdown
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 8
+- [ ] No other changes in version 8
 
 </details>
 
