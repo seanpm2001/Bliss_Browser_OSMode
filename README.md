@@ -144,6 +144,22 @@ Special Linux builds of Bliss Browser OSMode are available for:
     <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_WacOS_Shell/"><img src="/Graphics/Linux/W/WacOS/PNG/MacOSIcon.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for WacOS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Android_Shell/"><img src="/Graphics/Linux/A/Android/SVG/Android_logo_2019_(stacked).svg" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Android</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_FireOS_Shell/"><img src="/Graphics/Linux/F/FireOS/PNG/Amazon-Fire-Logo.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for FireOS</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Alpine-Linux_Shell/"><img src="/Graphics/Linux/A/Alpine-Linux/PNG/Alpine-Linux_Logo_LQ.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Alpine Linux</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_ElementaryOS_Shell/"><img src="/Graphics/Linux/E/ElementaryOS/PNG/ElementaryOS_logo.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for ElementaryOS</b></sub></a></td>
+  </tr>
+  <tr>
+     <td align="center"><p>Linux (row 4)</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_RaspbianOS_Shell/"><img src="/Graphics/Linux/R/RaspbianOS/PNG/RasbianOS_Logo1.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for RaspbianOS</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Xubuntu_Shell/"><img src="/Graphics/Linux/X/Xubuntu/SVG/Xubuntu_logo.svg" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Xubuntu</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Puppy-Linux_Shell/"><img src="/Graphics/Linux/P/Puppy-Linux/PNG/Puppy-Linux-Logo-Transparent.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Puppy Linux</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Lubuntu_Shell/"><img src="/Graphics/Linux/L/Lubuntu/SVG/Lubuntu_logo_only.svg" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Lubuntu</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_OpenSUSE_Shell/"><img src="/Graphics/Linux/O/OpenSUSE/PNG/OpenSUSE-Logo-940x940.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for OpenSUSE</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><p>Linux (row 5)</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Kubuntu_Shell/"><img src="/Graphics/Linux/K/Kubuntu/PNG/Kubuntu_logo-764984132.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser for Kubuntu</b></sub></a></td>
+    <td align="center"><a href="https://example.com"><img src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://example.com"><img src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://example.com"><img src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://example.com"><img src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -151,7 +167,7 @@ Special Linux builds of Bliss Browser OSMode are available for:
 
 </details>
 
-> **Note** Add to list: Kubuntu, Lubuntu, Xubuntu, ~~Gentoo~~, Manjaro, ~~Arch,~~ Alpine, Puppy, ~~Raspberry Pi OS~~, RaspbianOS, OpenSUSE, ElementaryOS, etc.
+> **Note** Add to list: ~~Kubuntu~~, ~~Lubuntu~~, ~~Xubuntu~~, ~~Gentoo~~, ~~Manjaro~~, ~~Arch,~~ ~~Alpine~~, ~~Puppy~~, ~~Raspberry Pi OS~~, ~~RaspbianOS~~, ~~OpenSUSE~~, ~~ElementaryOS~~, etc.
 
 </details>
 
@@ -174,11 +190,21 @@ Special builds for other UNIX-like operating systems with Bliss Browser OSMode a
     <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_iOS_Shell/"><img src="/Graphics/-Nix/I/iOS/PNG/iOS_Logo2.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for iOS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_iPadOS_Shell/"><img src="/Graphics/-Nix/I/iPadOS/PNG/iPadOS_Logo_LQ.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for iPadOS</b></sub></a></td>
   </tr>
+  <!-- Row 2 !-->
+  <!-- *Nix !-->
+  <tr>
+     <td align="center"><p>*Nix (row 2)</p></td>
+     <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_OpenBSD_Shell/"><img src="/Graphics/BSD/OpenBSD/PNG/openbsd_logo-200x200.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for OpenBSD</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_NetBSD_Shell/"><img src="/Graphics/BSD/NetBSD/PNG/NetBSD_Logo_2700px.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for NetBSD</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_FreeBSD_Shell/"><img src="/Graphics/BSD/FreeBSD/PNG/FreeBSD_Logo.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for FreeBSD</b></sub></a></td>
+    <td align="center"><a href="https://example.com"><img src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://example.com"><img src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+   </tr>
 </table>
 
 </details>
 
-> **Note** Add to list: ~~MacOS 10.10 and newer~~, FreeBSD, OpenBSD, NetBSD, etc.
+> **Note** Add to list: ~~MacOS 10.10 and newer~~, ~~FreeBSD~~, ~~OpenBSD~~, ~~NetBSD~~, etc.
 
 </details>
 
@@ -225,9 +251,9 @@ Special builds for other operating systems with Bliss Browser OSMode are availab
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (2023, Friday, February 10th at 6:14 pm PST)`
+**File version:** `9 (2023, Thursday, February 16th at 7:36 pm PST)`
 
-**Line count (including blank lines and compiler line):** `411`
+**Line count (including blank lines and compiler line):** `460`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -397,6 +423,27 @@ Special builds for other operating systems with Bliss Browser OSMode are availab
 
 </details>
 
+<details><summary><p><b>Version 9 (2023, Thursday, February 16th at 7:36 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** This release was repeatedly held off due to procrastination. I finally got to it today. No new OSMode projects are planned to be created for a while, so I am caught up for now.
+
+> Changes
+
+- ...
+- - [x] Updated the `Linux` subsection, adding support for Puppy Linux, OpenSUSE, Alpine Linux, Kubuntu, Lubuntu, Xubuntu, ElementaryOS, and RaspbianOS
+- - [x] Updated the `*Nix` subsection, adding support for FreeBSD, NetBSD, and OpenBSD
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 9
+- [ ] No other changes in version 9
+
+</details>
+
 </details>
 
 ***
@@ -407,4 +454,6 @@ Special builds for other operating systems with Bliss Browser OSMode are availab
 |---|---|---|---|
 | Coming soon | Coming soon | Coming soon | Coming soon |
 
+    <td align="center"><a href="https://example.com"><img src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    
 !-->
