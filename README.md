@@ -118,6 +118,8 @@ OSMode repositories aren't just for turning the browser into a net operating sys
 
 Special Linux builds of Bliss Browser OSMode are available for:
 
+<!-- Linux Bingo card !-->
+
 <details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 <table>
@@ -143,7 +145,7 @@ Special Linux builds of Bliss Browser OSMode are available for:
      <td align="center"><p>Linux (row 3)</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_WacOS_Shell/"><img src="/Graphics/Linux/W/WacOS/PNG/MacOSIcon.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for WacOS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Android_Shell/"><img src="/Graphics/Linux/A/Android/SVG/Android_logo_2019_(stacked).svg" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Android</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_FireOS_Shell/"><img src="/Graphics/Linux/F/FireOS/PNG/Amazon-Fire-Logo.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for FireOS</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_FireOS_Shell/"><img src="/Graphics/Linux/F/FireOS/PNG/Amazon-Fire-Logo.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for FireOS</b></sub></a></td> <!-- Free space !-->
     <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Alpine-Linux_Shell/"><img src="/Graphics/Linux/A/Alpine-Linux/PNG/Alpine-Linux_Logo_LQ.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for Alpine Linux</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_ElementaryOS_Shell/"><img src="/Graphics/Linux/E/ElementaryOS/PNG/ElementaryOS_logo.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser OSMode for ElementaryOS</b></sub></a></td>
   </tr>
@@ -158,7 +160,7 @@ Special Linux builds of Bliss Browser OSMode are available for:
   <tr>
     <td align="center"><p>Linux (row 5)</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Kubuntu_Shell/"><img src="/Graphics/Linux/K/Kubuntu/PNG/Kubuntu_logo-764984132.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser for Kubuntu</b></sub></a></td>
-    <td align="center"><a href="https://example.com"><img src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bliss_Browser_OSMode_Manjaro_Shell/"><img src="/Graphics/Linux/M/Manjaro/PNG/ManjaroLogo1_300px.png" width="100px;" alt=""/><br /><sub><b>:octocat: Bliss Browser for Manjaro</b></sub></a></td>
     <td align="center"><a href="https://example.com"><img src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://example.com"><img src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://example.com"><img src="/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -167,7 +169,8 @@ Special Linux builds of Bliss Browser OSMode are available for:
 
 </details>
 
-> **Note** Add to list: ~~Kubuntu~~, ~~Lubuntu~~, ~~Xubuntu~~, ~~Gentoo~~, ~~Manjaro~~, ~~Arch,~~ ~~Alpine~~, ~~Puppy~~, ~~Raspberry Pi OS~~, ~~RaspbianOS~~, ~~OpenSUSE~~, ~~ElementaryOS~~, etc.
+<!-- > **Note** Add to list: ~~Kubuntu~~, ~~Lubuntu~~, ~~Xubuntu~~, ~~Gentoo~~, ~~Manjaro~~, ~~Arch,~~ ~~Alpine~~, ~~Puppy~~, ~~Raspberry Pi OS~~, ~~RaspbianOS~~, ~~OpenSUSE~~, ~~ElementaryOS~~, etc.
+!-->
 
 </details>
 
@@ -204,7 +207,9 @@ Special builds for other UNIX-like operating systems with Bliss Browser OSMode a
 
 </details>
 
+<!--
 > **Note** Add to list: ~~MacOS 10.10 and newer~~, ~~FreeBSD~~, ~~OpenBSD~~, ~~NetBSD~~, etc.
+!-->
 
 </details>
 
@@ -231,7 +236,9 @@ Special builds for other operating systems with Bliss Browser OSMode are availab
 
 </details>
 
+<!--
 > **Note** Add to list: ~~Windows XP, Windows 10, Windows 11 and newer~~ , ~~ReactOS~~, etc.
+!-->
 
 </details>
 
@@ -251,9 +258,9 @@ Special builds for other operating systems with Bliss Browser OSMode are availab
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (2023, Thursday, February 16th at 7:36 pm PST)`
+**File version:** `10 (2023, Friday, March 3rd at 3:51 pm PST)`
 
-**Line count (including blank lines and compiler line):** `460`
+**Line count (including blank lines and compiler line):** `485`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -441,6 +448,24 @@ Special builds for other operating systems with Bliss Browser OSMode are availab
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 9
 - [ ] No other changes in version 9
+
+</details>
+
+<details><summary><p><b>Version 10 (2023, Friday, March 3rd at 3:51 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- ...
+- - [x] Updated the `Linux` subsection, adding support for Manjaro Linux
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 10
+- [ ] No other changes in version 10
 
 </details>
 
